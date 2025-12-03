@@ -1,0 +1,17 @@
+{
+  "name": "smartqa-cypress-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run cypress:run",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}
